@@ -1,3 +1,4 @@
+// Comentário Aqui
 const botao = document.getElementById("submit")
 
 function estudarImc(dados){
